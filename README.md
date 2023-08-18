@@ -1,2 +1,3 @@
 # topics_in_option_pricing
-topics in option pricing / https://www.youtube.com/@mohah13
+course videos: https://www.youtube.com/@mohah13
+based on course :https://github.com/LechGrzelak/Computational-Finance-Course
